@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7968d907-89d5-4e6f-b1f6-12ddd7a680f6" name="Default Changelist" comment="add .gitignore">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/week6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/week6.iml" afterDir="false" />
+    <list default="true" id="7968d907-89d5-4e6f-b1f6-12ddd7a680f6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Week6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Week6.ipynb" afterDir="false" />
     </list>
@@ -66,6 +64,7 @@
       <workItem from="1582151933309" duration="5668000" />
       <workItem from="1582209243420" duration="669000" />
       <workItem from="1582210320364" duration="1988000" />
+      <workItem from="1582213233015" duration="1086000" />
     </task>
     <task id="LOCAL-00001" summary="add .gitignore">
       <created>1582150789638</created>
@@ -74,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582150789638</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add shuffle and __getitem__ function">
+      <created>1582213293861</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582213293861</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,33 +101,38 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add .gitignore" />
+    <MESSAGE value="add shuffle and __getitem__ function" />
+    <option name="LAST_COMMIT_MESSAGE" value="add shuffle and __getitem__ function" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1582210330840">
+    <state x="301" y="53" key="CommitChangelistDialog2" timestamp="1582213293262">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582210330840" />
+    <state x="301" y="53" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1582213293262" />
+    <state width="1398" height="21" key="GridCell.Tab.0.bottom" timestamp="1582213307269">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="21" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582213307269" />
     <state width="2517" height="2" key="GridCell.Tab.0.bottom/0.0.2560.1410/-1080.-213.1080.1890@0.0.2560.1410" timestamp="1582152484565" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1582210330838">
+    <state width="1398" height="21" key="GridCell.Tab.0.center" timestamp="1582213307267">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582210330838" />
+    <state width="1398" height="21" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582213307267" />
     <state width="2517" height="2" key="GridCell.Tab.0.center/0.0.2560.1410/-1080.-213.1080.1890@0.0.2560.1410" timestamp="1582152484565" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1582210330836">
+    <state width="1398" height="21" key="GridCell.Tab.0.left" timestamp="1582213307265">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582210330836" />
+    <state width="1398" height="21" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582213307265" />
     <state width="2517" height="2" key="GridCell.Tab.0.left/0.0.2560.1410/-1080.-213.1080.1890@0.0.2560.1410" timestamp="1582152484565" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1582210330839">
+    <state width="1398" height="21" key="GridCell.Tab.0.right" timestamp="1582213307268">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582210330839" />
+    <state width="1398" height="21" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582213307268" />
     <state width="2517" height="2" key="GridCell.Tab.0.right/0.0.2560.1410/-1080.-213.1080.1890@0.0.2560.1410" timestamp="1582152484565" />
-    <state x="439" y="178" key="SettingsEditor" timestamp="1582210298429">
+    <state x="439" y="178" key="SettingsEditor" timestamp="1582213553167">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="439" y="178" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1582210298429" />
+    <state x="439" y="178" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1582213553167" />
     <state x="781" y="344" key="SettingsEditor/0.0.2560.1410/-1080.-213.1080.1890@0.0.2560.1410" timestamp="1582150365070" />
     <state x="374" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1582213234577">
       <screen x="0" y="0" width="1440" height="900" />
