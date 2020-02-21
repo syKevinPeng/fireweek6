@@ -16,10 +16,19 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7968d907-89d5-4e6f-b1f6-12ddd7a680f6" name="Default Changelist" comment="">
+    <list default="true" id="7968d907-89d5-4e6f-b1f6-12ddd7a680f6" name="Default Changelist" comment="add finish generation positive image">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/week6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/week6.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Week6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Week6.ipynb" afterDir="false" />
     </list>
@@ -31,7 +40,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="58e53094-ed76-4231-b317-ff3220d18fde" />
+  <component name="JupyterTrust" id="2c82a30e-dbfe-4066-84ef-0cf421b42d4d" />
   <component name="ProjectId" id="1Y2omVZKpnkSTZWG2LrxJG49lqe" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -91,9 +100,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -105,6 +112,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="add shuffle and __getitem__ function" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="872" y="345" width="1501" height="719" key="#Plugins" timestamp="1582251181020">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="872" y="345" width="1501" height="719" key="#Plugins/0.0.2560.1410/-1080.-213.1080.1890@0.0.2560.1410" timestamp="1582251181020" />
     <state x="301" y="53" key="CommitChangelistDialog2" timestamp="1582213293262">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -129,11 +140,15 @@
     </state>
     <state width="1398" height="21" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582213307268" />
     <state width="2517" height="2" key="GridCell.Tab.0.right/0.0.2560.1410/-1080.-213.1080.1890@0.0.2560.1410" timestamp="1582152484565" />
-    <state x="439" y="178" key="SettingsEditor" timestamp="1582213553167">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="248" y="122" key="MergeDialog" timestamp="1582250898825">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="248" y="122" key="MergeDialog/0.0.2560.1410/-1080.-213.1080.1890@0.0.2560.1410" timestamp="1582250898825" />
+    <state x="781" y="344" key="SettingsEditor" timestamp="1582251027989">
+      <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="439" y="178" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1582213553167" />
-    <state x="781" y="344" key="SettingsEditor/0.0.2560.1410/-1080.-213.1080.1890@0.0.2560.1410" timestamp="1582150365070" />
+    <state x="781" y="344" key="SettingsEditor/0.0.2560.1410/-1080.-213.1080.1890@0.0.2560.1410" timestamp="1582251027989" />
     <state x="374" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1582213234577">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -142,5 +157,13 @@
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="971" y="393" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1410/-1080.-213.1080.1890@0.0.2560.1410" timestamp="1582150889576" />
+    <state x="1089" y="618" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582250845283">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1089" y="618" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1410/-1080.-213.1080.1890@0.0.2560.1410" timestamp="1582250845283" />
+    <state x="943" y="317" width="672" height="678" key="search.everywhere.popup" timestamp="1582251782342">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="943" y="317" width="672" height="678" key="search.everywhere.popup/0.0.2560.1410/-1080.-213.1080.1890@0.0.2560.1410" timestamp="1582251782342" />
   </component>
 </project>
