@@ -26,10 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7968d907-89d5-4e6f-b1f6-12ddd7a680f6" name="Default Changelist" comment="Start working on image augmentation">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Week6.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="7968d907-89d5-4e6f-b1f6-12ddd7a680f6" name="Default Changelist" comment="Finish Image Augmentation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +69,7 @@
       <workItem from="1582209243420" duration="669000" />
       <workItem from="1582210320364" duration="1988000" />
       <workItem from="1582213233015" duration="1086000" />
-      <workItem from="1582305945674" duration="1388000" />
+      <workItem from="1582305945674" duration="1744000" />
     </task>
     <task id="LOCAL-00001" summary="add .gitignore">
       <created>1582150789638</created>
@@ -102,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582254175889</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Finish Image Augmentation">
+      <created>1582307349237</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582307349237</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,7 +140,8 @@
     <MESSAGE value="add shuffle and __getitem__ function" />
     <MESSAGE value="Almost finish the generator and fix the unable-to-display-image-bug" />
     <MESSAGE value="Start working on image augmentation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start working on image augmentation" />
+    <MESSAGE value="Finish Image Augmentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish Image Augmentation" />
   </component>
   <component name="WindowStateProjectService">
     <state x="872" y="345" width="1501" height="719" key="#Plugins" timestamp="1582251181020">
