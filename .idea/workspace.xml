@@ -26,7 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7968d907-89d5-4e6f-b1f6-12ddd7a680f6" name="Default Changelist" comment="Almost finish the generator and fix the unable-to-display-image-bug">
+    <list default="true" id="7968d907-89d5-4e6f-b1f6-12ddd7a680f6" name="Default Changelist" comment="Start working on image augmentation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Week6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Week6.ipynb" afterDir="false" />
     </list>
@@ -72,6 +72,7 @@
       <workItem from="1582209243420" duration="669000" />
       <workItem from="1582210320364" duration="1988000" />
       <workItem from="1582213233015" duration="1086000" />
+      <workItem from="1582305945674" duration="1388000" />
     </task>
     <task id="LOCAL-00001" summary="add .gitignore">
       <created>1582150789638</created>
@@ -94,18 +95,37 @@
       <option name="project" value="LOCAL" />
       <updated>1582252480039</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Start working on image augmentation">
+      <created>1582254175889</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582254175889</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -115,7 +135,8 @@
     <MESSAGE value="add .gitignore" />
     <MESSAGE value="add shuffle and __getitem__ function" />
     <MESSAGE value="Almost finish the generator and fix the unable-to-display-image-bug" />
-    <option name="LAST_COMMIT_MESSAGE" value="Almost finish the generator and fix the unable-to-display-image-bug" />
+    <MESSAGE value="Start working on image augmentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start working on image augmentation" />
   </component>
   <component name="WindowStateProjectService">
     <state x="872" y="345" width="1501" height="719" key="#Plugins" timestamp="1582251181020">
